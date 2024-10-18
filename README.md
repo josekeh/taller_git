@@ -1,2 +1,5 @@
-# taller_git
-Repo para ejemplos de clase
+# Taller Git
+Esto es un readme
+
+- 1
+- 2
